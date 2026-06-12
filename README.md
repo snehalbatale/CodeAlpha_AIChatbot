@@ -52,7 +52,9 @@ The chatbot provides interactive communication through a graphical user interfac
 
 # Screenshot 
 1.Home Screen 
-   ![Home Screen](Screenshot 1.png)
+
+![Home Screen](Screenshot 1.png)
 
 2. Chat Response
-   ![Chat Response](Screenshot 2.png)
+   
+![Chat Response](Screenshot 2.png)
