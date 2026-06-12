@@ -50,9 +50,4 @@ The chatbot provides interactive communication through a graphical user interfac
 
 5. The response is displayed instantly in the chat window.
 
-# Screenshot 
-1.Home Screen 
-![Home Screen](Screenshot 1.png)
 
-2.Chat Response
-![Chat Response](Screenshot 2.png)
